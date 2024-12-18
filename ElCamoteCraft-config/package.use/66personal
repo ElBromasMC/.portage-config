@@ -1,3 +1,6 @@
+# Xwayland
+gui-wm/sway X
+
 # HP LaserJet driver
 net-print/hplip -snmp
 
