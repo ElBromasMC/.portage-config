@@ -1,0 +1,31 @@
+# Windows manager
+gui-wm/sway
+sys-apps/xdg-desktop-portal-gtk
+gui-libs/xdg-desktop-portal-wlr
+x11-misc/xdg-utils
+
+# Font
+media-fonts/jetbrains-mono
+
+# Terminal emulator
+gui-apps/foot
+
+# Menu
+dev-libs/bemenu
+
+# Clipboard
+gui-apps/wl-clipboard
+
+# Audio
+media-video/wireplumber
+# PulseAudio sound server emulation through PipeWire
+media-libs/libpulse
+
+# Image viewer
+media-gfx/imv
+
+# Screenshot
+gui-apps/grim
+gui-apps/slurp
+app-misc/jq
+

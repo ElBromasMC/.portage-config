@@ -1,0 +1,27 @@
+# Text editor
+app-editors/neovim
+
+# Terminal multiplexer
+app-misc/tmux
+
+# Git
+dev-vcs/git
+
+# Stow
+app-admin/stow
+
+# Sensors viewer
+sys-apps/lm-sensors
+
+# Process viewer
+sys-process/htop
+
+# Bash completion
+app-shells/bash-completion
+
+# Docker
+app-containers/docker
+app-containers/docker-buildx
+app-containers/docker-cli
+app-containers/docker-compose
+

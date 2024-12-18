@@ -1,0 +1,21 @@
+# Prefer wayland native apps
+*/* -X wayland
+
+# Add sound server support (PulseAudio or PipeWire)
+*/* pulseaudio
+
+# Enable D-Bus
+*/* dbus
+
+# Disable unwanted USE flags
+*/* -kde -gnome -telemetry
+
+# Window manager
+gui-wm/sway wallpapers
+
+# Pipewire sound server
+media-video/pipewire sound-server
+
+# Imv image viewer
+media-gfx/imv jpeg png svg
+

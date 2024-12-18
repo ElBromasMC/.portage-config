@@ -1,0 +1,2 @@
+# Personal portage config
+

@@ -1,0 +1,3 @@
+# HP LaserJet driver
+net-print/hplip -snmp
+
