@@ -1,14 +1,20 @@
+# Enable D-Bus
+*/* dbus
+
+# Disable elogind and policykit globally
+*/* -elogind -policykit
+
 # Prefer wayland native apps
 */* -X wayland
 
 # Add sound server support (PulseAudio or PipeWire)
 */* pulseaudio
 
-# Enable D-Bus
-*/* dbus
-
 # Disable unwanted USE flags
 */* -kde -gnome -telemetry
+
+# Enable seatd server (replacement to elogind)
+sys-auth/seatd builtin server
 
 # Window manager
 gui-wm/sway wallpapers

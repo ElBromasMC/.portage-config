@@ -1,0 +1,3 @@
+sys-apps/keyutils keyutilsfix.conf
+sys-libs/basu keyutilsfix.conf
+

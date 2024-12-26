@@ -2,8 +2,8 @@
 www-client/firefox
 
 # File manager
-gnome-base/gvfs
-xfce-base/thunar
+#gnome-base/gvfs
+#xfce-base/thunar
 
 # Password manager
 app-admin/keepassxc
@@ -12,7 +12,7 @@ app-admin/keepassxc
 net-p2p/syncthing
 
 # Flatpak
-sys-apps/flatpak
+#sys-apps/flatpak
 
 # Printing
 net-print/cups
