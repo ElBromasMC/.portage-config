@@ -10,6 +10,9 @@ dev-vcs/git
 # Stow
 app-admin/stow
 
+# Search tool
+sys-apps/ripgrep
+
 # Sensors viewer
 sys-apps/lm-sensors
 

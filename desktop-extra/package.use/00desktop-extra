@@ -1,10 +1,10 @@
 # Add support for CUPS
-*/* cups
+#*/* cups
 
 # Printing
-net-print/cups usb
-net-print/cups-meta pdf
+#net-print/cups usb
+#net-print/cups-meta pdf
 
 # GVfs
-gnome-base/gvfs udisks
+#gnome-base/gvfs udisks
 

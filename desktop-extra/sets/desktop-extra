@@ -15,6 +15,6 @@ net-p2p/syncthing
 #sys-apps/flatpak
 
 # Printing
-net-print/cups
-net-print/cups-meta
+#net-print/cups
+#net-print/cups-meta
 
