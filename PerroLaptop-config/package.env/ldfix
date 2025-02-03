@@ -1,0 +1,4 @@
+sys-apps/keyutils ldfix.conf
+sys-libs/basu ldfix.conf
+dev-java/openjdk ldfix.conf
+

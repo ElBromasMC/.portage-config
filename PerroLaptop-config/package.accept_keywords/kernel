@@ -1,2 +1,10 @@
-sys-kernel/gentoo-sources ~amd64
+#sys-kernel/gentoo-sources ~amd64
+#media-libs/mesa ~amd64
+#x11-libs/libdrm ~amd64
+
+#dev-util/intel_clc ~amd64
+
+# Testing
+#virtual/dist-kernel ~amd64
+#sys-kernel/gentoo-kernel ~amd64
 
