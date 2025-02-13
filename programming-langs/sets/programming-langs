@@ -1,6 +1,6 @@
 llvm-core/clang
 dev-lang/go
 net-libs/nodejs
-dev-lang/rust
-dev-java/openjdk:21
+#dev-lang/rust
+#dev-java/openjdk:21
 

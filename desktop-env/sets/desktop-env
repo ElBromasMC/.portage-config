@@ -41,5 +41,5 @@ gui-apps/slurp
 app-misc/jq
 
 # Display brightness utility
-sys-power/acpilight
+#sys-power/acpilight
 
