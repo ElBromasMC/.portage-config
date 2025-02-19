@@ -1,0 +1,9 @@
+# Required for some desktop packages
+dev-lang/rust
+
+# Required to compile Firefox
+net-libs/nodejs
+
+# For some reason, nodejs require gcc to compile
+sys-devel/gcc
+

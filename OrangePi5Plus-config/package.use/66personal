@@ -1,11 +1,2 @@
-
-# media-video/ffmpeg -opengl
-# media-libs/libwebp -opengl
-# media-libs/mesa X
-# media-libs/libglvnd X
-# media-video/ffmpeg X
-
-app-text/texlive extra graphics luatex
 dev-qt/qtgui -accessibility
-dev-qt/qtwidgets -gtk
 

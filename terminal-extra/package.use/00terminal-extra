@@ -1,0 +1,3 @@
+# Don't emerge sys-process/tini
+app-containers/docker -container-init
+

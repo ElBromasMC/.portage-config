@@ -4,9 +4,6 @@ app-admin/doas
 # System logger
 app-admin/sysklogd
 
-# Portage tools
-app-portage/gentoolkit
-
 # Filesystem tools
 sys-fs/dosfstools
 
@@ -24,7 +21,4 @@ sys-apps/mlocate
 
 # Udev rules for kernel I/O schedulers
 sys-block/io-scheduler-udev-rules
-
-# Firewall
-net-firewall/nftables
 

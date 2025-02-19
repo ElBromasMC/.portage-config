@@ -11,7 +11,7 @@
 */* pulseaudio
 
 # Disable unwanted USE flags
-*/* -kde -gnome -telemetry
+*/* -kde -gnome -gtk -qt5 -qt6 -svg -telemetry
 
 # Enable seatd server (replacement to elogind)
 sys-auth/seatd builtin server
@@ -23,5 +23,5 @@ gui-wm/sway wallpapers
 media-video/pipewire sound-server
 
 # Imv image viewer
-media-gfx/imv jpeg png svg
+media-gfx/imv jpeg png
 

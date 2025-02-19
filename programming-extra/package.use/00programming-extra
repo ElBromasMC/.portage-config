@@ -1,0 +1,3 @@
+# Don't install Node Package Manager
+net-libs/nodejs -npm
+
