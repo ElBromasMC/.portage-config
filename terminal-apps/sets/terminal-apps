@@ -13,9 +13,6 @@ app-admin/stow
 # Portage tools
 app-portage/gentoolkit
 
-# Sensors viewer
-sys-apps/lm-sensors
-
 # Process viewer
 sys-process/htop
 

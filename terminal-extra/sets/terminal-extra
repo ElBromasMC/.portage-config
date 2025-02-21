@@ -4,3 +4,15 @@ app-containers/docker-buildx
 app-containers/docker-cli
 app-containers/docker-compose
 
+# Bubblewrap
+sys-apps/bubblewrap
+
+# Useful diagnostic, instructional, and debugging tool
+dev-debug/strace
+
+# Search tool
+sys-apps/ripgrep
+
+# Lua package manager
+dev-lua/luarocks
+

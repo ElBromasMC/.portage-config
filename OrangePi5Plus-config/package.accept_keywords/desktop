@@ -5,13 +5,7 @@ dev-libs/bemenu ~arm64
 www-client/firefox:esr ~arm64
 dev-libs/nss ~arm64
 
-# For portal
-gui-libs/xdg-desktop-portal-wlr ~arm64
-
 # For KeePassXC
 app-admin/keepassxc ~arm64
 dev-libs/botan ~arm64
-
-# For Basu
-sys-libs/basu **
 
