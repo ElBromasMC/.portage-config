@@ -1,2 +1,6 @@
+#*/* -vulkan
 dev-qt/qtgui -accessibility
+
+# Temporal
+gui-wm/sway X
 

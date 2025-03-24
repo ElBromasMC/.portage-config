@@ -13,6 +13,12 @@ dev-debug/strace
 # Search tool
 sys-apps/ripgrep
 
+# CLI for creating and testing tree-sitter grammars
+dev-util/tree-sitter-cli
+
+# Python package manager
+dev-python/pip
+
 # Lua package manager
 dev-lua/luarocks
 

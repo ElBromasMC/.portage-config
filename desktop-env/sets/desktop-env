@@ -16,7 +16,7 @@ media-fonts/jetbrains-mono
 gui-apps/foot
 
 # Menu
-dev-libs/bemenu
+gui-apps/wmenu
 
 # Clipboard
 gui-apps/wl-clipboard
@@ -26,8 +26,8 @@ media-video/wireplumber
 # PulseAudio sound server emulation through PipeWire
 media-libs/libpulse
 
-# Image viewer
-media-gfx/imv
+# Media player
+media-video/mpv
 
 # Screenshot
 gui-apps/grim

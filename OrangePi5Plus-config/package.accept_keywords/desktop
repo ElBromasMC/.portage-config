@@ -1,11 +1,8 @@
-# For bemenu
-dev-libs/bemenu ~arm64
-
-# For Firefox
+# Firefox
 www-client/firefox:esr ~arm64
 dev-libs/nss ~arm64
 
-# For KeePassXC
+# KeePassXC
 app-admin/keepassxc ~arm64
 dev-libs/botan ~arm64
 

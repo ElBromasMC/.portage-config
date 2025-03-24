@@ -16,9 +16,18 @@ net-misc/dhcpcd
 # Wireless daemon
 net-wireless/iwd
 
+# Firewall
+net-firewall/nftables
+
+# VPN
+net-vpn/wireguard-tools
+
 # Files index
 sys-apps/mlocate
 
 # Udev rules for kernel I/O schedulers
 sys-block/io-scheduler-udev-rules
+
+# Hardware Monitoring user-space utilities
+sys-apps/lm-sensors
 

@@ -22,6 +22,6 @@ gui-wm/sway wallpapers
 # Pipewire sound server
 media-video/pipewire sound-server
 
-# Imv image viewer
-media-gfx/imv jpeg png
+# Mpv media player
+media-video/mpv -vulkan pipewire -alsa -pulseaudio jpeg
 

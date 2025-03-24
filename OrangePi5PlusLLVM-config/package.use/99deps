@@ -24,3 +24,25 @@
 # required by dev-qt/qtwayland-5.15.16-r1::gentoo
 >=dev-qt/qtgui-5.15.16 egl
 
+# Temporal
+
+# required by gui-wm/sway-1.10.1::gentoo
+# required by @desktop-env
+# required by @selected
+# required by @world (argument)
+>=gui-libs/wlroots-0.18.2 X
+# required by x11-base/xwayland-24.1.6::gentoo
+# required by gui-libs/wlroots-0.17.4::gentoo[X]
+# required by gui-wm/sway-1.9-r1::gentoo
+# required by @desktop-env
+# required by @selected
+# required by @world (argument)
+>=media-libs/libepoxy-1.5.10-r3 X
+# required by x11-base/xwayland-24.1.6::gentoo
+# required by gui-libs/wlroots-0.17.4::gentoo[X]
+# required by gui-wm/sway-1.9-r1::gentoo
+# required by @desktop-env
+# required by @selected
+# required by @world (argument)
+>=media-libs/mesa-24.3.4-r1 X
+
