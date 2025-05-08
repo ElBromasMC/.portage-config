@@ -1,8 +1,6 @@
-# Docker
-app-containers/docker
-app-containers/docker-buildx
-app-containers/docker-cli
-app-containers/docker-compose
+# Container engine
+app-containers/podman
+app-containers/podman-compose
 
 # Bubblewrap
 sys-apps/bubblewrap

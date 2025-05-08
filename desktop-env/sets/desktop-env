@@ -21,6 +21,9 @@ gui-apps/wmenu
 # Clipboard
 gui-apps/wl-clipboard
 
+# Command-line JSON processor
+app-misc/jq
+
 # Audio
 media-video/wireplumber
 # PulseAudio sound server emulation through PipeWire
@@ -29,10 +32,12 @@ media-libs/libpulse
 # Media player
 media-video/mpv
 
+# PDF viewer
+app-text/zathura
+app-text/zathura-meta
+app-text/zathura-pdf-mupdf
+
 # Screenshot
 gui-apps/grim
 gui-apps/slurp
-
-# Command-line JSON processor
-app-misc/jq
 

@@ -25,3 +25,7 @@ media-video/pipewire sound-server
 # Mpv media player
 media-video/mpv -vulkan pipewire -alsa -pulseaudio jpeg
 
+# Zathura PDF viewer
+app-text/zathura synctex seccomp
+app-text/zathura-meta epub
+

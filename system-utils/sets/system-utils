@@ -4,6 +4,9 @@ app-admin/doas
 # System logger
 app-admin/sysklogd
 
+# Cron daemon
+sys-process/cronie
+
 # Filesystem tools
 sys-fs/dosfstools
 

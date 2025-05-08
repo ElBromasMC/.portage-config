@@ -1,3 +1,20 @@
+# Neovim
+app-editors/neovim ~arm64
+dev-lua/luv ~arm64
+dev-libs/libutf8proc ~arm64
+dev-libs/tree-sitter ~arm64
+dev-libs/tree-sitter-lua ~arm64
+dev-libs/tree-sitter-markdown ~arm64
+dev-libs/tree-sitter-query ~arm64
+dev-libs/tree-sitter-vim ~arm64
+dev-util/tree-sitter-cli ~arm64
+
+# Zathura
+app-text/zathura ~arm64
+app-text/zathura-meta * ~*
+app-text/zathura-pdf-mupdf * ~*
+dev-libs/girara ~arm64
+
 # Firefox
 www-client/firefox:esr ~arm64
 dev-libs/nss ~arm64
@@ -5,4 +22,8 @@ dev-libs/nss ~arm64
 # KeePassXC
 app-admin/keepassxc ~arm64
 dev-libs/botan ~arm64
+
+# Portals
+sys-libs/basu * ~*
+gui-libs/xdg-desktop-portal-wlr *
 
