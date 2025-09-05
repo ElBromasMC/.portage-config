@@ -11,7 +11,7 @@
 */* pulseaudio
 
 # Disable unwanted USE flags
-*/* -kde -gnome -gtk -qt5 -qt6 -svg -telemetry
+*/* -kde -gnome -gtk -qt5 -qt6 -svg -telemetry -cups
 
 # Enable seatd server (replacement to elogind)
 sys-auth/seatd builtin server
@@ -22,10 +22,18 @@ gui-wm/sway wallpapers
 # Pipewire sound server
 media-video/pipewire sound-server
 
+# FFmpeg
+media-video/ffmpeg vorbis
+
 # Mpv media player
 media-video/mpv -vulkan pipewire -alsa -pulseaudio jpeg
 
 # Zathura PDF viewer
 app-text/zathura synctex seccomp
 app-text/zathura-meta epub
+
+# RDP
+media-libs/freetype harfbuzz
+media-libs/libsdl3 opengl
+net-misc/freerdp -fuse sdl
 

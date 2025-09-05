@@ -1,0 +1,9 @@
+# Mail client
+mail-client/neomutt lmdb sasl ssl
+
+# Password manager
+app-admin/pass git importers
+
+# Spreadsheet editor
+app-office/sc-im ods xlsx
+

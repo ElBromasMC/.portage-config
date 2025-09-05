@@ -1,4 +1,10 @@
-#*/* -vulkan
+# Vulkan support
+*/* vulkan
+media-libs/vulkan-loader layers
+media-libs/mesa vulkan
+dev-util/vulkan-tools cube
+x11-apps/mesa-progs vulkan gles2
+
 dev-qt/qtgui -accessibility
 
 # Temporal

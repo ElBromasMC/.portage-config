@@ -7,3 +7,6 @@ net-libs/nodejs
 # For some reason, nodejs require gcc to compile
 sys-devel/gcc
 
+# For fun
+dev-lang/zig
+

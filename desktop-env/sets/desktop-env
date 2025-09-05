@@ -32,6 +32,9 @@ media-libs/libpulse
 # Media player
 media-video/mpv
 
+# Media downloader
+net-misc/yt-dlp
+
 # PDF viewer
 app-text/zathura
 app-text/zathura-meta
@@ -40,4 +43,10 @@ app-text/zathura-pdf-mupdf
 # Screenshot
 gui-apps/grim
 gui-apps/slurp
+
+# RDP client
+net-misc/freerdp
+
+# Graphics utils
+x11-apps/mesa-progs
 

@@ -16,6 +16,9 @@ net-misc/chrony
 # DHCP client
 net-misc/dhcpcd
 
+# Configuration utility for wireless devices
+net-wireless/iw
+
 # Wireless daemon
 net-wireless/iwd
 

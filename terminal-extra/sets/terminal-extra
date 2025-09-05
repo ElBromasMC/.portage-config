@@ -8,6 +8,9 @@ sys-apps/bubblewrap
 # Useful diagnostic, instructional, and debugging tool
 dev-debug/strace
 
+# Generates a compilation database for clang tooling
+dev-util/bear
+
 # Search tool
 sys-apps/ripgrep
 

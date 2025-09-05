@@ -19,3 +19,12 @@ sys-process/htop
 # Bash completion
 app-shells/bash-completion
 
+# Mail client
+mail-client/neomutt
+
+# Password manager
+app-admin/pass
+
+# Spreadsheet editor
+app-office/sc-im
+

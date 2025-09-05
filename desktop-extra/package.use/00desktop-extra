@@ -1,3 +1,7 @@
+# Firefox
+www-client/firefox openh264 system-pipewire
+
 # Office
 app-text/texlive extra graphics png l10n_en l10n_es
+app-office/libreoffice -gtk -gtk4 -qt6 -cups gtk3
 

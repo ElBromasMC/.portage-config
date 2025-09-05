@@ -1,5 +1,2 @@
 app-containers/podman-compose * ~*
 
-# User services support
-sys-apps/openrc ~arm64
-

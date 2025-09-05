@@ -1,3 +1,3 @@
-# Install the wireguard helper tool
-net-vpn/wireguard-tools wg-quick
+# Don't install the wireguard helper tool
+net-vpn/wireguard-tools -wg-quick
 
