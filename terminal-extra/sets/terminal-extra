@@ -11,8 +11,17 @@ dev-debug/strace
 # Generates a compilation database for clang tooling
 dev-util/bear
 
+# Documentation system for most programming languages
+app-text/doxygen
+
 # Search tool
 sys-apps/ripgrep
+
+# Command-line fuzzy finder
+app-shells/fzf
+
+# Alternative to find
+sys-apps/fd
 
 # CLI for creating and testing tree-sitter grammars
 dev-util/tree-sitter-cli

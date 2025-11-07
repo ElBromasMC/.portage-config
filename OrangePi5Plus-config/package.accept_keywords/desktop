@@ -16,9 +16,15 @@ media-libs/mesa
 # Always use latest Bear
 dev-util/bear
 
+# Always use latest Doxygen
+app-text/doxygen
+
 # Always use latest Zig
 dev-lang/zig
 app-eselect/eselect-zig
+
+# Always use latest glfw
+media-libs/glfw
 
 # Always use latest freeRDP
 media-libs/plutosvg
