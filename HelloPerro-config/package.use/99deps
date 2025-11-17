@@ -1,0 +1,90 @@
+# required by llvm-core/clang-common-20.1.8::gentoo[default-compiler-rt,llvm-libunwind]
+# required by llvm-runtimes/clang-runtime-20.1.8::gentoo
+# required by llvm-core/clang-20.1.8::gentoo
+# required by @selected
+# required by @world (argument)
+>=llvm-runtimes/libunwind-20.1.8 static-libs
+# required by llvm-core/clang-common-20.1.8::gentoo
+# required by llvm-core/clang-20.1.8::gentoo
+# required by llvm-runtimes/libunwind-20.1.8::gentoo
+# required by @selected
+# required by @world (argument)
+>=llvm-runtimes/clang-runtime-20.1.8 default-compiler-rt default-lld
+# required by www-client/firefox-144.0.2::gentoo[system-libvpx]
+# required by @desktop-extra (argument)
+>=media-libs/libvpx-1.15.2 postproc
+# required by media-libs/mesa-25.2.6::gentoo[-video_cards_r300,video_cards_radeonsi,-video_cards_r600,-video_cards_radeon]
+# required by gui-libs/wlroots-0.18.2::gentoo
+# required by gui-wm/sway-1.10.1::gentoo
+# required by @desktop-env (argument)
+>=x11-libs/libdrm-2.4.125 video_cards_radeon
+# required by app-text/texlive-core-2024-r1::gentoo
+# required by virtual/tex-base-0::gentoo
+# required by app-text/dvisvgm-3.4::gentoo
+# required by dev-texlive/texlive-binextra-2024_p72338-r1::gentoo
+# required by app-text/texlive-2024::gentoo[extra]
+# required by @desktop-extra (argument)
+>=media-libs/harfbuzz-11.4.5 icu
+# required by virtual/opengl-8::gentoo
+# required by media-libs/sdl3-ttf-3.2.2::gentoo
+# required by net-misc/freerdp-3.17.2-r1::gentoo[sdl,client]
+# required by @desktop-env (argument)
+>=media-libs/libglvnd-1.7.0 X
+# required by dev-qt/qtwayland-5.15.17::gentoo
+>=dev-qt/qtgui-5.15.17 egl
+# required by x11-misc/xdg-utils-1.2.1-r9::gentoo
+# required by @desktop-env (argument)
+>=app-text/xmlto-0.0.28-r11 text
+# required by gui-wm/sway-1.10.1::gentoo[wallpapers]
+# required by @desktop-env (argument)
+>=gui-apps/swaybg-1.2.1 gdk-pixbuf
+# required by app-containers/containers-common-0.63.0::gentoo
+# required by app-containers/podman-5.3.2::gentoo
+# required by app-containers/podman-compose-1.4.1::gentoo[-test]
+# required by @terminal-extra (argument)
+>=net-firewall/iptables-1.8.11-r1 nftables
+# required by app-admin/pass-1.7.4-r2::gentoo
+# required by @terminal-apps (argument)
+>=media-gfx/qrencode-4.1.1-r1 png
+# required by virtual/minizip-1.3.1::gentoo[-static-libs]
+# required by app-admin/keepassxc-2.7.10-r2::gentoo
+# required by @desktop-extra (argument)
+>=sys-libs/zlib-1.3.1-r1 minizip
+
+# required by app-emulation/libvirt-11.6.0-r2::gentoo[virt-network]
+# required by app-emulation/libvirt-glib-5.0.0-r1::gentoo
+# required by app-emulation/virt-manager-5.1.0::gentoo
+# required by @virt-env (argument)
+>=net-dns/dnsmasq-2.91 script
+# required by app-crypt/swtpm-0.10.0-r2::gentoo
+# required by app-emulation/libvirt-11.6.0-r2::gentoo[qemu]
+# required by app-emulation/libvirt-glib-5.0.0-r1::gentoo
+# required by app-emulation/virt-manager-5.1.0::gentoo
+# required by @virt-env (argument)
+>=net-libs/gnutls-3.8.10-r1 pkcs11 tools
+# required by app-emulation/virt-manager-5.1.0::gentoo[gui]
+# required by @virt-env
+# required by @selected
+# required by @world (argument)
+>=net-misc/spice-gtk-0.42-r4 usbredir
+
+# required by gui-wm/sway-1.10.1::gentoo
+# required by @desktop-env
+# required by @selected
+# required by @world (argument)
+>=gui-libs/wlroots-0.18.2:0.18 X
+# required by x11-base/xwayland-24.1.9::gentoo
+# required by gui-libs/wlroots-0.18.2::gentoo[X]
+# required by gui-wm/sway-1.10.1::gentoo
+# required by @desktop-env
+# required by @selected
+# required by @world (argument)
+>=media-libs/libepoxy-1.5.10-r3 X
+# required by x11-base/xwayland-24.1.9::gentoo
+# required by gui-libs/wlroots-0.18.2::gentoo[X]
+# required by gui-wm/sway-1.10.1::gentoo
+# required by @desktop-env
+# required by @selected
+# required by @world (argument)
+>=media-libs/mesa-25.2.6 X
+

@@ -1,0 +1,45 @@
+# Always use latest kernel
+virtual/dist-kernel
+sys-kernel/gentoo-kernel
+
+# Use Firefox rapid channel
+media-video/pipewire
+dev-libs/nspr
+dev-libs/nss
+www-client/firefox:rapid
+
+# Always use latest KeePassXC
+dev-libs/zxcvbn-c
+dev-libs/botan
+app-admin/keepassxc
+
+# Always use latest Mesa
+dev-util/mesa_clc
+media-libs/mesa
+
+# Always use latest Bear
+dev-util/bear
+
+# Always use latest Doxygen
+app-text/doxygen
+
+# Always use latest Zig
+dev-lang/zig
+app-eselect/eselect-zig
+
+# Always use latest glfw
+media-libs/glfw
+
+# Always use latest freeRDP
+media-libs/plutosvg
+media-libs/plutovg
+media-libs/sdl3-ttf
+media-libs/libsdl3
+net-misc/freerdp
+
+# Always use latest sc-im
+app-office/sc-im
+
+# Always use latest podman-compose
+app-containers/podman-compose
+

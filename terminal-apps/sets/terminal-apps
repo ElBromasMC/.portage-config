@@ -13,6 +13,9 @@ app-admin/stow
 # Portage tools
 app-portage/gentoolkit
 
+# Manage repos
+app-eselect/eselect-repository
+
 # Process viewer
 sys-process/htop
 

@@ -1,0 +1,11 @@
+sys-kernel/gentoo-kernel llvm-kernel.conf nolto.conf
+dev-lang/rust nolto.conf
+
+dev-perl/List-MoreUtils-XS nolto.conf
+dev-perl/Text-BibTeX nolto.conf
+dev-perl/Socket6 nolto.conf
+
+dev-libs/libtomcrypt nolto.conf
+
+sys-libs/basu nolto.conf
+

@@ -1,0 +1,8 @@
+# To use qemu with virt-manager
+app-emulation/qemu usbredir spice
+
+# Recommended USE flags
+app-emulation/libvirt pcap virt-network numa fuse macvtap vepa qemu
+
+app-emulation/virt-manager gui
+

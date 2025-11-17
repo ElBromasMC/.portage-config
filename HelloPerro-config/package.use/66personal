@@ -1,0 +1,8 @@
+llvm-core/clang-common default-compiler-rt default-lld llvm-libunwind
+sys-kernel/installkernel grub dracut
+
+#dev-lang/rust lto
+net-libs/nodejs lto
+
+gui-wm/sway X
+
