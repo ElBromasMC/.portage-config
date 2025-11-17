@@ -2,7 +2,7 @@
 mail-client/neomutt lmdb sasl ssl
 
 # Password manager
-app-admin/pass git importers
+app-admin/pass git
 
 # Spreadsheet editor
 app-office/sc-im ods xlsx
