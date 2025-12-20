@@ -7,9 +7,6 @@ app-text/texlive
 # File synchronization program
 net-p2p/syncthing
 
-# Password manager
-app-admin/keepassxc
-
 # Desktop portal
 sys-apps/xdg-desktop-portal
 gui-libs/xdg-desktop-portal-wlr
