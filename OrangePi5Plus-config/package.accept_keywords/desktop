@@ -49,3 +49,6 @@ dev-libs/girara *
 sys-libs/basu * ~*
 gui-libs/xdg-desktop-portal-wlr *
 
+# Required for rclone usage in arm64
+net-misc/rclone * ~*
+

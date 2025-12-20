@@ -22,6 +22,9 @@ sys-process/htop
 # Bash completion
 app-shells/bash-completion
 
+# OpenPGP implementation
+app-crypt/gnupg
+
 # Mail client
 mail-client/neomutt
 
