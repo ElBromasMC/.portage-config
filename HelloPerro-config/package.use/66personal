@@ -6,3 +6,5 @@ net-libs/nodejs lto
 
 gui-wm/sway X
 
+net-vpn/wireguard-tools wg-quick
+

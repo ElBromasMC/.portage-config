@@ -41,5 +41,7 @@ net-misc/freerdp
 app-office/sc-im
 
 # Always use latest podman-compose
+app-containers/crun
+app-containers/podman
 app-containers/podman-compose
 
