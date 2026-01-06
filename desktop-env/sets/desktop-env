@@ -48,5 +48,9 @@ gui-apps/slurp
 net-misc/freerdp
 
 # Graphics utils
-x11-apps/mesa-progs
+#x11-apps/mesa-progs
+
+# Emacs
+app-editors/emacs
+
 

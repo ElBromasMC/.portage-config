@@ -37,3 +37,10 @@ media-libs/freetype harfbuzz
 media-libs/libsdl3 opengl
 net-misc/freerdp -fuse sdl
 
+# Emacs
+app-emacs/emacs-common gui
+app-editors/emacs gui gtk
+
+# Pinentry
+app-crypt/pinentry emacs
+

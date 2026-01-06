@@ -1,3 +1,6 @@
 # Install Node Package Manager
 net-libs/nodejs npm
 
+# PyPy
+dev-lang/pypy full-stdlib
+

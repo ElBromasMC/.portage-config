@@ -52,3 +52,10 @@ gui-libs/xdg-desktop-portal-wlr *
 # Required for rclone usage in arm64
 net-misc/rclone * ~*
 
+# Required for mesa clc
+dev-util/spirv-llvm-translator
+
+# Pypy
+dev-lang/pypy *
+dev-python/pypy-exe-bin *
+
