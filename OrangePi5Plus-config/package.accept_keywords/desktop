@@ -2,6 +2,7 @@
 media-video/pipewire
 dev-libs/nspr
 dev-libs/nss
+dev-libs/icu
 www-client/firefox:rapid
 
 # Always use unstable KeePassXC
@@ -58,4 +59,7 @@ dev-util/spirv-llvm-translator
 # Pypy
 dev-lang/pypy *
 dev-python/pypy-exe-bin *
+
+# Iosevka
+media-fonts/iosevka *
 

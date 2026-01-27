@@ -39,7 +39,7 @@ net-misc/freerdp -fuse sdl
 
 # Emacs
 app-emacs/emacs-common gui
-app-editors/emacs gui gtk
+app-editors/emacs gui gtk jit
 
 # Pinentry
 app-crypt/pinentry emacs

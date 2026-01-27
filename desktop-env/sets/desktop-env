@@ -10,6 +10,7 @@ gui-apps/swaylock
 x11-misc/xdg-utils
 
 # Fonts
+media-fonts/iosevka
 media-fonts/jetbrains-mono
 
 # Terminal emulator
@@ -52,5 +53,4 @@ net-misc/freerdp
 
 # Emacs
 app-editors/emacs
-
 

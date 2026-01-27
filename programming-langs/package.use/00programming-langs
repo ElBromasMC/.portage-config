@@ -1,0 +1,3 @@
+# To compile Emacs Lisp code to native binaries
+sys-devel/gcc jit
+

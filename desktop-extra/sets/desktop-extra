@@ -4,9 +4,6 @@ www-client/firefox
 # Office
 app-text/texlive
 
-# File synchronization program
-net-p2p/syncthing
-
 # Desktop portal
 sys-apps/xdg-desktop-portal
 gui-libs/xdg-desktop-portal-wlr
