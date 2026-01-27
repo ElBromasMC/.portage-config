@@ -105,3 +105,15 @@
 # required by @world (argument)
 >=media-libs/mesa-25.2.6 X
 
+# required by app-emulation/qemu-10.0.5::gentoo[gtk]
+# required by @virt-env
+# required by @selected
+# required by @world (argument)
+>=x11-libs/gtk+-3.24.51 X
+# required by x11-libs/gtk+-3.24.51::gentoo
+# required by app-emulation/qemu-10.0.5::gentoo[gtk]
+# required by @virt-env
+# required by @selected
+# required by @world (argument)
+>=x11-libs/cairo-1.18.4-r1 X
+

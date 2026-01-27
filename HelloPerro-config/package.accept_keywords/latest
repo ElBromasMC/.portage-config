@@ -4,6 +4,7 @@ sys-kernel/gentoo-kernel
 
 # Use Firefox rapid channel
 media-video/pipewire
+dev-libs/icu
 dev-libs/nspr
 dev-libs/nss
 www-client/firefox:rapid

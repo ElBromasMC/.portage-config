@@ -1,8 +1,8 @@
 # To use qemu with virt-manager
-app-emulation/qemu usbredir spice
+app-emulation/qemu usbredir spice seccomp zstd virtfs fdt slirp io-uring
+app-emulation/qemu QEMU_SOFTMMU_TARGETS: riscv64
 
 # Recommended USE flags
 app-emulation/libvirt pcap virt-network numa fuse macvtap vepa qemu
-
 app-emulation/virt-manager gui
 
