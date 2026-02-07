@@ -1,5 +1,0 @@
-sys-libs/basu ldfix.conf
-dev-libs/botan ldfix.conf
-#sys-apps/keyutils ldfix.conf
-#dev-java/openjdk ldfix.conf
-
