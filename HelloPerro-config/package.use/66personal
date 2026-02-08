@@ -1,10 +1,14 @@
 llvm-core/clang-common default-compiler-rt default-lld llvm-libunwind
-sys-kernel/installkernel grub dracut
 
-#dev-lang/rust lto
 net-libs/nodejs lto
 
+gui-libs/wlroots X
 gui-wm/sway X
 
 net-vpn/wireguard-tools wg-quick
+
+media-libs/leptonica png
+app-text/tesseract float32 png -openmp
+
+sys-kernel/installkernel grub dracut
 
