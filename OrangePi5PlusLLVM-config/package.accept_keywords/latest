@@ -1,31 +1,17 @@
-# Use Firefox rapid channel
-media-video/pipewire
-dev-libs/nspr
-dev-libs/nss
-dev-libs/icu
-www-client/firefox:rapid
-
-# Always use unstable KeePassXC
-dev-libs/zxcvbn-c
-dev-libs/botan
-app-admin/keepassxc
+# Always use latest kernel
+sys-kernel/gentoo-sources
 
 # Always use latest Mesa
+dev-util/spirv-llvm-translator
 dev-util/mesa_clc
 media-libs/mesa
 
 # Always use latest Bear
 dev-util/bear
 
-# Always use latest Doxygen
-app-text/doxygen
-
 # Always use latest Zig
 dev-lang/zig
 app-eselect/eselect-zig
-
-# Always use latest glfw
-media-libs/glfw
 
 # Always use latest freeRDP
 media-libs/plutosvg
@@ -34,11 +20,13 @@ media-libs/sdl3-ttf
 media-libs/libsdl3
 net-misc/freerdp
 
+# Always use latest podman
+app-containers/crun
+app-containers/podman
+app-containers/podman-compose * ~*
+
 # Always use latest sc-im
 app-office/sc-im
-
-# Neomutt
-mail-client/neomutt *
 
 # Zathura is not available in arm64
 app-text/zathura *
@@ -47,14 +35,8 @@ app-text/zathura-pdf-mupdf * ~*
 dev-libs/girara *
 
 # Required for portal usage in arm64
-sys-libs/basu * ~*
+sys-libs/basu *
 gui-libs/xdg-desktop-portal-wlr *
-
-# Required for rclone usage in arm64
-net-misc/rclone * ~*
-
-# Required for mesa clc
-dev-util/spirv-llvm-translator
 
 # Pypy
 dev-lang/pypy *

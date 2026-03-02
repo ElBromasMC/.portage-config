@@ -1,4 +1,0 @@
-# Enable Link-Time Optimization (LTO) to optimize the build
-dev-lang/rust lto
-net-libs/nodejs lto
-
