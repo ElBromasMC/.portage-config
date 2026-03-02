@@ -12,3 +12,6 @@ app-text/tesseract float32 png -openmp
 
 sys-kernel/installkernel grub dracut
 
+net-p2p/monero daemon wallet-cli tools -wallet-rpc -hw-wallet
+net-dns/unbound threads
+
