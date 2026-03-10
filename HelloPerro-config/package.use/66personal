@@ -1,17 +1,22 @@
+# LLVM
 llvm-core/clang-common default-compiler-rt default-lld llvm-libunwind
 
+# LTO
 net-libs/nodejs lto
 
+# Kernel
+sys-kernel/installkernel grub dracut
+
+# Xwayland
 gui-libs/wlroots X
 gui-wm/sway X
 
-net-vpn/wireguard-tools wg-quick
-
-media-libs/leptonica png
-app-text/tesseract float32 png -openmp
-
-sys-kernel/installkernel grub dracut
-
+# Required for monero
 net-p2p/monero daemon wallet-cli tools -wallet-rpc -hw-wallet
 net-dns/unbound threads
+
+# Miscellaneous
+net-vpn/wireguard-tools -wg-quick
+media-libs/leptonica png
+app-text/tesseract float32 png -openmp
 
