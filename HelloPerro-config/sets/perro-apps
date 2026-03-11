@@ -12,10 +12,11 @@ llvm-runtimes/libunwind
 sys-apps/musl-locales
 sys-libs/timezone-data
 
-# Linux kernel
+# Linux kernel and boot
 sys-kernel/gentoo-sources
 sys-kernel/installkernel
 sys-kernel/linux-firmware
+sys-boot/efibootmgr
 
 # Monero
 net-p2p/monero

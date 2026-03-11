@@ -1,11 +1,15 @@
 # LLVM
+*/* clang llvm-libunwind
 llvm-core/clang-common default-compiler-rt default-lld llvm-libunwind
+
+# Video Acceleration
+*/* vaapi
 
 # LTO
 net-libs/nodejs lto
 
 # Kernel
-sys-kernel/installkernel grub dracut
+sys-kernel/installkernel dracut efistub
 
 # Xwayland
 gui-libs/wlroots X
