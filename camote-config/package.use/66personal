@@ -1,0 +1,16 @@
+# Video Acceleration
+*/* vaapi
+
+# LTO
+net-libs/nodejs lto
+
+# Kernel
+sys-kernel/installkernel dracut efistub
+
+# Xwayland
+gui-libs/wlroots X
+gui-wm/sway X
+
+# Miscellaneous
+net-vpn/wireguard-tools -wg-quick
+

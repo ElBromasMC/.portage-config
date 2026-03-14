@@ -8,5 +8,5 @@ net-libs/nodejs
 sys-devel/gcc
 
 # For fun
-dev-lang/zig
+#dev-lang/zig
 

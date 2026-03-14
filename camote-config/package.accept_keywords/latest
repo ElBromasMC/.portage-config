@@ -1,0 +1,31 @@
+# Always use latest kernel
+virtual/dist-kernel
+sys-kernel/gentoo-kernel
+sys-kernel/gentoo-sources
+
+# Always use latest Mesa
+dev-util/mesa_clc
+media-libs/mesa
+
+# Always use latest Bear
+dev-util/bear
+
+# Always use latest Zig
+dev-lang/zig
+app-eselect/eselect-zig
+
+# Always use latest freeRDP
+media-libs/plutosvg
+media-libs/plutovg
+media-libs/sdl3-ttf
+media-libs/libsdl3
+net-misc/freerdp
+
+# Always use latest podman
+app-containers/crun
+app-containers/podman
+app-containers/podman-compose
+
+# Always use latest sc-im
+app-office/sc-im
+

@@ -1,0 +1,4 @@
+# Accepting the license for linux-firmware
+sys-kernel/linux-firmware linux-fw-redistributable
+sys-firmware/intel-microcode intel-ucode
+
