@@ -13,4 +13,5 @@ gui-wm/sway X
 
 # Miscellaneous
 net-vpn/wireguard-tools -wg-quick
+media-libs/libva-intel-media-driver -redistributable
 
