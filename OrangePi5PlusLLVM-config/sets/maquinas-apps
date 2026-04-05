@@ -12,3 +12,6 @@ media-libs/vulkan-loader
 media-libs/vulkan-layers
 dev-util/vulkan-tools
 
+# Miscellaneous
+net-dns/dnsmasq
+

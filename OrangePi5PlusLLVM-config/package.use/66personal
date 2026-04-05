@@ -7,4 +7,5 @@ x11-apps/mesa-progs gles2
 # Miscellaneous
 gui-wm/sway X
 dev-qt/qtgui -accessibility
+net-dns/dnsmasq tftp
 
