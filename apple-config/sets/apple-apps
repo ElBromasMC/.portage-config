@@ -1,0 +1,19 @@
+# Musl libc
+sys-apps/musl-locales
+sys-libs/timezone-data
+
+# Asahi linux
+sys-kernel/linux-firmware
+sys-boot/grub
+sys-apps/asahi-meta
+virtual/dist-kernel:asahi
+
+# Vulkan
+media-libs/vulkan-loader
+media-libs/vulkan-layers
+dev-util/vulkan-tools
+
+# Miscellaneous
+app-laptop/tiny-dfr
+sys-power/acpilight
+

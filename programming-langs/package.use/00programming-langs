@@ -1,3 +1,4 @@
 # To compile Emacs Lisp code to native binaries
 sys-devel/gcc jit
+dev-lang/rust rustfmt rust-src
 

@@ -1,0 +1,15 @@
+*/* VIDEO_CARDS: -* asahi
+
+# Asahi linux
+sys-kernel/installkernel dracut
+sys-apps/asahi-meta mesa sound
+
+# Graphics API
+*/* vulkan
+media-libs/vulkan-loader layers
+dev-util/vulkan-tools cube
+x11-apps/mesa-progs gles2
+
+# Miscellaneous
+gui-wm/sway X
+

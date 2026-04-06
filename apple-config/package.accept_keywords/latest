@@ -1,0 +1,44 @@
+# Always use latest Mesa
+#dev-util/spirv-llvm-translator
+#dev-util/mesa_clc
+#media-libs/mesa
+
+# Always use latest Zig
+dev-lang/zig
+app-eselect/eselect-zig
+
+# Always use latest freeRDP
+media-libs/plutosvg
+media-libs/plutovg
+media-libs/sdl3-ttf
+media-libs/libsdl3
+net-misc/freerdp
+
+# Always use latest podman
+app-containers/crun
+app-containers/podman
+app-containers/podman-compose * ~*
+
+# Always use latest sc-im
+app-office/sc-im
+
+# Zathura is not available in arm64
+app-text/zathura *
+app-text/zathura-meta * ~*
+app-text/zathura-pdf-mupdf * ~*
+dev-libs/girara *
+
+# Required for portal usage in arm64
+sys-libs/basu *
+gui-libs/xdg-desktop-portal-wlr *
+
+# Pypy
+dev-lang/pypy *
+dev-python/pypy-exe-bin *
+
+# Iosevka
+media-fonts/iosevka *
+
+# Miscellaneous
+app-laptop/tiny-dfr
+

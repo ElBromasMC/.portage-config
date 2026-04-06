@@ -1,0 +1,3 @@
+app-editors/emacs compiler-gcc.conf
+sys-boot/grub compiler-gcc.conf
+

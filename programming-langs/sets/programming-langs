@@ -1,6 +1,5 @@
-# Required for most system packages (LLVM profile)
 llvm-core/clang
-
-# Required for some packages (docker, syncthing)
+sys-devel/gcc
 dev-lang/go
+dev-lang/rust
 

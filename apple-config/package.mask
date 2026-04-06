@@ -1,0 +1,6 @@
+sys-kernel/gentoo-kernel::gentoo
+sys-kernel/gentoo-kernel-bin::gentoo
+
+# Cannot compile
+=gnome-base/librsvg-2.60.0:2
+

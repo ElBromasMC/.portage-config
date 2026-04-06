@@ -1,34 +1,3 @@
-# Container engine
 app-containers/podman
 app-containers/podman-compose
-
-# Bubblewrap
-sys-apps/bubblewrap
-
-# Useful diagnostic, instructional, and debugging tool
-dev-debug/strace
-
-# Generates a compilation database for clang tooling
-dev-util/bear
-
-# Documentation system for most programming languages
-#app-text/doxygen
-
-# Search tool
-sys-apps/ripgrep
-
-# Command-line fuzzy finder
-app-shells/fzf
-
-# Alternative to find
-sys-apps/fd
-
-# CLI for creating and testing tree-sitter grammars
-dev-util/tree-sitter-cli
-
-# Python package manager
-dev-python/pip
-
-# Lua package manager
-dev-lua/luarocks
 
