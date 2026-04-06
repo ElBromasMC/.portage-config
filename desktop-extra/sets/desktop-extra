@@ -2,7 +2,7 @@
 www-client/firefox
 
 # Office
-#app-text/texlive
+app-text/texlive
 
 # Desktop portal
 sys-apps/xdg-desktop-portal
